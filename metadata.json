@@ -1,0 +1,6 @@
+{
+  "name": "DriveTrack Pro",
+  "description": "A comprehensive driving school application for booking lessons, tracking practical and theory progress, real-time instructor tracking, and license applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
